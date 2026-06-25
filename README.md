@@ -34,6 +34,12 @@ Folder Organization: Group tasks into collapsible containers or keep them unfile
 
 No-Reload Experience: Add, delete, rename, or update task states instantly using asynchronous AJAX requests.
 
+
+<img width="1531" height="811" alt="image" src="https://github.com/user-attachments/assets/a50259bd-661d-4e42-a3fe-45d9f5869b1d" />
+
+
+
+
 Live Telemetry: Tracks application metrics through status counters and real-time completion percentage metrics.
 
 Enterprise Security: Built-in safeguards against SQL injection (PDO prepared statements), Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and Session Fixation attacks. Passwords are fully hashed via Bcrypt (cost 12).
